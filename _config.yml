@@ -1,5 +1,5 @@
 title: Alex Davidson
-url: "https://adavidson1995.github.io"
+url: "https://www.alexdavidson.me"
 baseurl: ""
 
 markdown: kramdown
@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "GitHub"
-   link: "https://github.com/adavidson1995"
+   link: "https://github.com/alexrdavidson"
  - name: "CV"
    link: "/cv.pdf"
  - name: "Contact"
